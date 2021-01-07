@@ -309,7 +309,7 @@
 | ssayebee |:white_check_mark:|||||||||||||| | 6.67% |
 | ssebong777 |||||||:white_check_mark:|||||||| | 6.67% |
 | sskim91 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||| | 40.00% |
-| ssonsh |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||| | 46.67% |
+| ssonsh |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_chec k_mark:|:white_check_mark:|:white_check_mark:|||||||| | 46.67% |
 | star1606 |:white_check_mark:|:white_check_mark:||||||||||||| | 13.33% |
 | sujl95 |:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||| | 40.00% |
 | sungpillhong |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||| | 46.67% |
