@@ -5,3 +5,10 @@
 
   ![javaToClass](https://media.vlpt.us/images/ggob_2/post/5fc85906-7d89-4894-b436-a6b537f36f54/KakaoTalk_20201117_010013529.jpg)
 
+ **JVM의 역할**
+ -**(Write once, run Anywhere)**OS에 자바파일을 실행하려면 class파일로 변환하여 실행하여야 한다. 이 때 각 OS에 맞는 class 파일로 컴파일(번역)을 해주는 것이 JVM의 역할이다.
+
+ - JVM
+
+
+ 
